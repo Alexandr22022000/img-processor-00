@@ -1,0 +1,7 @@
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\bin\Debug\ImgProcessor.exe.config
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\bin\Debug\ImgProcessor.exe
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\bin\Debug\ImgProcessor.pdb
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\obj\Debug\ImgProcessor.csprojAssemblyReference.cache
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\obj\Debug\ImgProcessor.csproj.CoreCompileInputs.cache
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\obj\Debug\ImgProcessor.exe
+C:\G\Project\VisualStudio\ImgProcessor\ImgProcessor\obj\Debug\ImgProcessor.pdb
